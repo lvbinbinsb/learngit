@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 turan haoxiangni
 GUI operation!
+GUI 2th  operation!
